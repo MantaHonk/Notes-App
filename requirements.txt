@@ -1,5 +1,2 @@
-flask
-Flask-SQLAlchemy
-flask-login
-pip install flask gunicorn
-pip freeze > requirements.txt
+Flask
+gunicorn
